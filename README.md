@@ -1,14 +1,24 @@
 # Grand Egyptian Museum Full-Stack Enterprise Platform
 
-**Role & Execution:** Full-Stack Web Developer.
+**Role:** Full-Stack Web Developer
 
-- **System Scope:** Designed and developed a complete end-to-end web system for the Grand Egyptian Museum, integrating visitor ticketing, artifact cataloging, and administrative portal management.
+## 📌 System Scope
+Designed and developed a complete end-to-end web system for the **Grand Egyptian Museum**, integrating **visitor ticketing**, **artifact cataloging**, and **administrative portal management**.
 
-- **Technical Implementation:** Constructed a dynamic PHP back-end coupled with a MySQL relational database. Built secure user authentication, admin CRUD operations for gallery management, and responsive front-end interfaces.
+## 🛠️ Technical Implementation
+- Constructed a dynamic **PHP** back-end coupled with a **MySQL** relational database.
+- Built secure user authentication, admin **CRUD** operations for gallery management, and responsive front-end interfaces.
 
-- **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript, Full-Stack Architecture.
+## 🧩 Tech Stack
+- **PHP**
+- **MySQL**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Full-Stack Architecture**
 
 ## 🖼️ Platform Preview
+
 ![Screenshot 1023](Screenshot%20(1023).png)
 ![Screenshot 1024](Screenshot%20(1024).png)
 ![Screenshot 1027](Screenshot%20(1027).png)
